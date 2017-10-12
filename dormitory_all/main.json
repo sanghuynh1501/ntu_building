@@ -1,0 +1,60 @@
+{
+	"id": "dormitory_all",
+	"name": "KTX",
+	"owner": "s2corp",
+	"location": {
+		"type": "Point",
+		"coordinates": [109.2011849878606, 12.268973320538016]
+	},
+	"levels": [
+		{
+			"id": "all_floor_1",
+			"name": "1",
+			"readable_name": "First floor",
+			"z_order": 0,
+			"filename": "all_floor_1.geojson"
+		},
+		{
+			"id": "all_floor_2",
+			"name": "2",
+			"readable_name": "Second floor",
+			"z_order": 1,
+			"filename": "all_floor_2.geojson"
+		},
+		{
+			"id": "all_floor_3",
+			"name": "3",
+			"readable_name": "Third floor",
+			"z_order": 2,
+			"filename": "all_floor_3.geojson"
+		},
+		{
+			"id": "all_floor_4",
+			"name": "4",
+			"readable_name": "Fourth floor",
+			"z_order": 3,
+			"filename": "all_floor_4.geojson"
+		},
+		{
+			"id": "all_floor_5",
+			"name": "5",
+			"readable_name": "Fifth floor",
+			"z_order": 4,
+			"filename": "all_floor_5.geojson"
+		},
+		{
+			"id": "all_floor_6",
+			"name": "6",
+			"readable_name": "Sixth floor",
+			"z_order": 5,
+			"filename": "all_floor_6.geojson"
+		},
+		{
+			"id": "all_floor_7",
+			"name": "7",
+			"readable_name": "Seventh floor",
+			"z_order": 6,
+			"filename": "all_floor_7.geojson"
+		}
+	]
+}
